@@ -1,2 +1,2 @@
 # app-evitaN_liamG
-evitaN_liamG app for PureHarmony
+evitaN_liamG app for Oniro
